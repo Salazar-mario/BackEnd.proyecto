@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.portofolio.salazar</groupId>
-    <artifactId>mgb</artifactId>
+    <artifactId>mas</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mgb</name>
+    <name>mas</name>
     <description>portafolio mgb</description>
     <properties>
         <java.version>1.8</java.version>
